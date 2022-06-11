@@ -1,5 +1,5 @@
 public struct Hello {
     public func sayHello() {
-        print("Hello 1.0.0")
+        print("Hello 2.0.0")
     }
 }
